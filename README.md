@@ -14,4 +14,3 @@ Alcuni script potrebbero richiedere dipendenze specifiche per funzionare corrett
   ```bash
   python nome_script.py
 
-
