@@ -1,6 +1,7 @@
 # Script di automazione quotidiana
 
-Ho raccolto alcuni script che utilizzo per automatizzare la mia attività. Tutti gli script sono molto brevi e facilmente personalizzabili per le tue esigenze. Questi strumenti possono aiutarti con attività che vanno dall'implementazione di un diario di bordo al processing dei file video.
+Ho raccolto alcuni script che utilizzo per automatizzare diversi compiti nella mia giornata (lavorativa e non). Tutti gli script sono molto brevi e facilmente personalizzabili per le tue esigenze. Questi strumenti possono aiutarti con attività che vanno dall'implementazione di un diario di bordo al processing dei file video.
+
 Questi script non sono da intendere come un software di produzione ma come condivisione di risorse che per me sono utili e come strumento per imparare il coding: assicurati di leggerli e di capire cosa fanno. Il modo migliore è quello di modificarli per personalizzarli.
 
 ## Elenco script
