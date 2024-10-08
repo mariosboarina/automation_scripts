@@ -4,7 +4,7 @@ Ho raccolto alcuni script che utilizzo per automatizzare la mia attività. Tutti
 Questi script non sono da intendere come un software di produzione ma come condivisione di risorse che per me sono utili e come strumento per imparare il coding: assicurati di leggerli e di capire cosa fanno. Il modo migliore è quello di modificarli per personalizzarli.
 
 ## Elenco script
-- [Giornale di bordo (journaling](./journaling)
+- [Giornale di bordo (journaling)](./journaling)
 
 ## Requisiti
 Tutti gli script sono scritti in Python: richiedono un'installazione di Python 3 (testati con 3.8).
