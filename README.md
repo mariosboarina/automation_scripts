@@ -6,7 +6,7 @@ Questi script non sono da intendere come un software di produzione ma come condi
 
 ## Elenco script
 - [Giornale di bordo (journaling)](./journaling)
-- [Generatore di password complesse negli appunti] (./password-generator)
+- [Generatore di password complesse negli appunti](./password-generator)
 
 ## Requisiti
 Tutti gli script sono scritti in Python: richiedono un'installazione di Python 3 (testati con 3.8).
