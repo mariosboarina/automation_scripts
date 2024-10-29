@@ -36,21 +36,16 @@ pip install schedule
 ```
 ## Come Utilizzare
 
-1. Clonare il repository:
-   ```bash
-   git clone https://github.com/tuo-username/giornale-di-bordo.git
-   cd giornale-di-bordo
-   ```
+1. Clonare il repository o scaricare da github (consigliabile in una sottocartella della propria Home es. journaling):
 
 2. Modificare i parametri di configurazione all'interno dello script Python, se necessario.
 
-3. Eseguire lo script:
+3. Posizionarsi nella cartella ed eseguire lo script:
    ```bash
-   python script.py
+   python journaling.py
    ```
-
 4. Lo script inizierà a raccogliere le note agli orari configurati, generando finestre popup per richiedere l'inserimento del testo. Le note verranno salvate automaticamente nel file di giornale di bordo.
-5. È anche possibile creare un collegamento per l'avvio dello script (con il comando al punto 3) e inserislo nella cartella di avvio automatico del sistema (nel caso Windows) 
+5. È anche possibile creare un collegamento per l'avvio dello script (con il comando al punto 3) e inserirlo nella cartella di avvio automatico del sistema (nel caso Windows) 
 
 ## Struttura del File di Giornale
 
