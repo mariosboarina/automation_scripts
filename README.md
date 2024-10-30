@@ -7,6 +7,7 @@ Questi script non sono da intendere come un software di produzione ma come condi
 ## Elenco script
 - [Giornale di bordo (journaling)](./journaling)
 - [Generatore di password complesse negli appunti](./password-generator)
+- [folder-automation: uno script per riordinare le cartelle](./folder-automation)
 
 ## Requisiti
 Tutti gli script sono scritti in Python: richiedono un'installazione di Python 3 (testati con 3.8).
